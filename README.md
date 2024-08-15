@@ -11,6 +11,8 @@ roBaは[keyball](https://github.com/Yowkees/keyball/)に影響を受けたblueto
 
 ## Build Guide
 
+ビルドガイドは[こちら](https://github.com/kumamuk-git/roBa/blob/main/doc/buildguide.md)
+
 ## Firmware
 
 
