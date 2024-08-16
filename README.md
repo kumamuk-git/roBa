@@ -1,5 +1,5 @@
 # roBa
-roBaは[keyball](https://github.com/Yowkees/keyball/)に影響を受けたbluetoothキーボードです  
+roBaは[keyball](https://github.com/Yowkees/keyball/)に影響を受けたワイヤレスキーボードです  
 
 特徴:
 + bluetooth(BLE)対応
@@ -14,5 +14,8 @@ roBaは[keyball](https://github.com/Yowkees/keyball/)に影響を受けたblueto
 ビルドガイドは[こちら](https://github.com/kumamuk-git/roBa/blob/main/doc/buildguide.md)
 
 ## Firmware
+
+ファームウェアのリポジトリは[こちら](https://github.com/kumamuk-git/zmk-config-roBa)  
+ファームウェア、キーマップの編集手順は[こちら](https://github.com/kumamuk-git/roBa/blob/main/doc/buildguide.md)
 
 
