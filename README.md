@@ -9,6 +9,8 @@ roBaは[keyball](https://github.com/Yowkees/keyball/)に影響を受けたワイ
 
 ## Whare to Buy
 
+[BOOTH](https://kumamuk.booth.pm/)にて組み立てキットが購入可能
+
 ## Build Guide
 
 ビルドガイドは[こちら](https://github.com/kumamuk-git/roBa/blob/main/doc/buildguide.md)
