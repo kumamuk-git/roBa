@@ -4155,7 +4155,7 @@
 		)
 		(fp_arc
 			(start 3.016318 1.496471)
-			(mid 2.268709 2.861118)
+			(mid 2.268709 2.861117)
 			(end 0.8 3.375)
 			(stroke
 				(width 1)
@@ -4188,7 +4188,7 @@
 		)
 		(fp_arc
 			(start 1.300995 -8.248791)
-			(mid 1.848288 -8.041024)
+			(mid 1.848286 -8.041023)
 			(end 2.162199 -7.546904)
 			(stroke
 				(width 0.15)
@@ -18837,7 +18837,7 @@
 		(at 188.093438 90.64)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D21"
-			(at 3.302 0 360)
+			(at 3.302 0 0)
 			(layer "F.Fab")
 			(uuid "33d0956e-af9c-4a21-b113-39f14b91c160")
 			(effects
@@ -18848,7 +18848,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 3.2 -1.6 360)
+			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c16a4390-27ce-45af-93ae-9e3eb2f49fcb")
@@ -20081,8 +20081,6 @@
 			)
 		)
 		(path "/38714771-d9ea-4177-84b6-e88b84379ef4")
-		(sheetname "ルート")
-		(sheetfile "roba_L.kicad_sch")
 		(attr through_hole exclude_from_pos_files)
 		(fp_rect
 			(start -8.89 21)
@@ -20307,7 +20305,7 @@
 		(pad "15" thru_hole oval
 			(at 3.8354 19.812 90)
 			(size 2.5 1.5)
-			(drill 0.7
+			(drill 0.8128
 				(offset 0.5 0)
 			)
 			(layers "*.Cu" "*.Mask")
@@ -20318,9 +20316,9 @@
 			(uuid "0cdef4a7-5ccb-4f14-925c-43e89cd00128")
 		)
 		(pad "16" thru_hole oval
-			(at 5.715 19.812 90)
+			(at 5.715 19.812 270)
 			(size 2.5 1.5)
-			(drill 0.7
+			(drill 0.8128
 				(offset 0.5 0)
 			)
 			(layers "*.Cu" "*.Mask")
@@ -20333,7 +20331,7 @@
 		(pad "20" thru_hole oval
 			(at -4.445 10.183)
 			(size 2.5 1.5)
-			(drill 0.7
+			(drill 0.8128
 				(offset 0.5 0)
 			)
 			(layers "*.Cu" "*.Mask")
@@ -20346,7 +20344,7 @@
 		(pad "21" thru_hole oval
 			(at -4.445 8.278)
 			(size 2.5 1.5)
-			(drill 0.7
+			(drill 0.8128
 				(offset 0.5 0)
 			)
 			(layers "*.Cu" "*.Mask")
@@ -20700,7 +20698,7 @@
 			(uuid "c77f1476-07a1-4b3d-beac-fffe3a190e38")
 		)
 		(fp_line
-			(start -1.100002 -8.225001)
+			(start -1.100003 -8.225001)
 			(end -1.1 -3.625)
 			(stroke
 				(width 0.15)
@@ -21401,7 +21399,7 @@
 		)
 		(fp_line
 			(start 6.55 -5.975)
-			(end 6.549998 -1.475)
+			(end 6.549997 -1.475)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -21473,7 +21471,7 @@
 		)
 		(fp_arc
 			(start 1.300995 -8.248791)
-			(mid 1.848288 -8.041024)
+			(mid 1.848285 -8.041023)
 			(end 2.162199 -7.546904)
 			(stroke
 				(width 0.15)
