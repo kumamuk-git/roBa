@@ -1,6 +1,6 @@
 # roBa
 roBaは[keyball](https://github.com/Yowkees/keyball/)に影響を受けたワイヤレスキーボードです  
-![alt text](doc/img/roBa_Natu.jpg)
+![alt text](doc/img/roba.png)
 特徴:
 + bluetooth(BLE)対応
 + 分割カラムスタッガード配列(キー数:42)
@@ -10,7 +10,6 @@ roBaは[keyball](https://github.com/Yowkees/keyball/)に影響を受けたワイ
 ## Whare to Buy
 
 [BOOTH](https://kumamuk.booth.pm/)にて組み立てキットが購入可能
-※ネイティは付属しません
 
 ## Build Guide
 
