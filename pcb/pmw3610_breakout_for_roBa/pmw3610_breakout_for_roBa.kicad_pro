@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.8,
+          "height": 1.3,
+          "width": 1.3
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -430,7 +430,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pmw3610_my_breakout.kicad_pro",
+    "filename": "pmw3610_breakout_for_roBa.kicad_pro",
     "version": 1
   },
   "net_settings": {

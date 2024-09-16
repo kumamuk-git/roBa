@@ -3201,7 +3201,7 @@
 			(uuid "0a659d3e-9303-4b65-9c48-7bd974df00e2")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "#PWR05")
 					(unit 1)
@@ -3237,7 +3237,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 237.49 101.6 0)
 			(effects
 				(font
@@ -3271,7 +3271,7 @@
 			(uuid "656fd757-0702-4257-b0f9-f5bbe479927e")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D20")
 					(unit 1)
@@ -3305,7 +3305,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 204.47 80.01 0)
 			(effects
 				(font
@@ -3338,7 +3338,7 @@
 			(uuid "3dba9c44-507c-4966-a563-9bf82116c33c")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW11")
 					(unit 1)
@@ -3374,7 +3374,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 199.39 64.77 0)
 			(effects
 				(font
@@ -3408,7 +3408,7 @@
 			(uuid "fb590620-0b01-497c-b7b5-62842e5fc7be")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D10")
 					(unit 1)
@@ -3442,7 +3442,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 223.52 80.01 0)
 			(effects
 				(font
@@ -3475,7 +3475,7 @@
 			(uuid "539db0b3-b375-4547-9158-d8797ef861bb")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW15")
 					(unit 1)
@@ -3509,7 +3509,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX_Choc"
+		(property "Footprint" "roBa:SW_MX_Choc"
 			(at 223.52 97.79 0)
 			(effects
 				(font
@@ -3542,7 +3542,7 @@
 			(uuid "12c2d346-48de-4031-bc10-55a4287e847f")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW16")
 					(unit 1)
@@ -3578,7 +3578,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 218.44 83.82 0)
 			(effects
 				(font
@@ -3612,7 +3612,7 @@
 			(uuid "d59a3796-765c-4a30-8358-9ab35edc7df7")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D15")
 					(unit 1)
@@ -3648,7 +3648,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 237.49 83.82 0)
 			(effects
 				(font
@@ -3682,7 +3682,7 @@
 			(uuid "0e3d1ecd-1f44-48c4-a99e-0c7bdd7903ea")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D19")
 					(unit 1)
@@ -3718,7 +3718,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 161.29 45.72 0)
 			(effects
 				(font
@@ -3752,7 +3752,7 @@
 			(uuid "bd18c4d7-76e5-47e5-a4b8-5631f761cbd6")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D1")
 					(unit 1)
@@ -3786,7 +3786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 223.52 60.96 0)
 			(effects
 				(font
@@ -3819,7 +3819,7 @@
 			(uuid "6333a4c9-d2c3-439d-bd12-8f3c40562864")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW14")
 					(unit 1)
@@ -3853,7 +3853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 166.37 60.96 0)
 			(effects
 				(font
@@ -3886,7 +3886,7 @@
 			(uuid "a757a3b5-22a4-4f4a-8607-33bfbe55f639")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW2")
 					(unit 1)
@@ -3920,7 +3920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX_Choc"
+		(property "Footprint" "roBa:SW_MX_Choc"
 			(at 204.47 97.79 0)
 			(effects
 				(font
@@ -3953,7 +3953,7 @@
 			(uuid "a3d7d488-87d9-44c3-b2fe-e607f42033a2")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW12")
 					(unit 1)
@@ -3989,7 +3989,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 161.29 83.82 0)
 			(effects
 				(font
@@ -4023,7 +4023,7 @@
 			(uuid "b97840b9-87af-4e32-ad26-ca329dace7ab")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D3")
 					(unit 1)
@@ -4090,7 +4090,7 @@
 			(uuid "5473fe35-4e77-4abd-8669-702a01f877d7")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "#PWR03")
 					(unit 1)
@@ -4126,7 +4126,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 199.39 45.72 0)
 			(effects
 				(font
@@ -4160,7 +4160,7 @@
 			(uuid "25e0f024-9245-4315-8210-d084abe6c187")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D9")
 					(unit 1)
@@ -4196,7 +4196,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 218.44 45.72 0)
 			(effects
 				(font
@@ -4230,7 +4230,7 @@
 			(uuid "39010f19-9967-4162-a722-fb1e6d74f901")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D13")
 					(unit 1)
@@ -4266,7 +4266,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 199.39 101.6 0)
 			(effects
 				(font
@@ -4300,7 +4300,7 @@
 			(uuid "21efea77-0e11-443f-b924-410bdf19a019")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D12")
 					(unit 1)
@@ -4368,7 +4368,7 @@
 			(uuid "ba0285c3-cf3d-47ac-8c42-0a5a193cd8f8")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "#PWR02")
 					(unit 1)
@@ -4436,7 +4436,7 @@
 			(uuid "a7c63b85-47bc-420c-ab89-68d30b023ce0")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "J7")
 					(unit 1)
@@ -4472,7 +4472,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 218.44 64.77 0)
 			(effects
 				(font
@@ -4506,7 +4506,7 @@
 			(uuid "451b51b7-9b3b-49ff-b79e-c0872453539a")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D14")
 					(unit 1)
@@ -4542,7 +4542,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:XIAO_nRF52840_wBAT_wNFC"
+		(property "Footprint" "roBa:XIAO_nRF52840_wBAT_wNFC"
 			(at 29.21 27.94 0)
 			(effects
 				(font
@@ -4633,7 +4633,7 @@
 			(uuid "7b7d0b05-bedb-43eb-a383-9596fe0feda7")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "U1")
 					(unit 1)
@@ -4667,7 +4667,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 166.37 80.01 0)
 			(effects
 				(font
@@ -4700,7 +4700,7 @@
 			(uuid "56eaf548-09bf-4e6e-a62d-8506e6bb781b")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW3")
 					(unit 1)
@@ -4768,7 +4768,7 @@
 			(uuid "f8c60f10-922f-4be4-b6fd-cc4d3f8a2d30")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "J5")
 					(unit 1)
@@ -4802,7 +4802,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 166.37 41.91 0)
 			(effects
 				(font
@@ -4835,7 +4835,7 @@
 			(uuid "44203d8d-ed20-455d-81e5-b567f9b5614c")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW1")
 					(unit 1)
@@ -4869,7 +4869,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 223.52 41.91 0)
 			(effects
 				(font
@@ -4902,7 +4902,7 @@
 			(uuid "f0644804-144d-4547-a06e-031a56faa974")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW13")
 					(unit 1)
@@ -4936,7 +4936,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 166.37 97.79 0)
 			(effects
 				(font
@@ -4969,7 +4969,7 @@
 			(uuid "e6cc76fb-9634-49a6-853e-0ebc03cfd667")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW4")
 					(unit 1)
@@ -5004,7 +5004,7 @@
 				)
 			)
 		)
-		(property "Footprint" "note96e:TGSW_MSK-12D19"
+		(property "Footprint" "roBa:TGSW_MSK-12D19"
 			(at 52.07 160.02 0)
 			(effects
 				(font
@@ -5041,7 +5041,7 @@
 			(uuid "090385d4-1dd5-46cf-8e4c-44ca6ab79460")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW21")
 					(unit 1)
@@ -5075,7 +5075,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 242.57 60.96 0)
 			(effects
 				(font
@@ -5108,7 +5108,7 @@
 			(uuid "531c5f1e-063d-4909-8c0f-5191e384e511")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW18")
 					(unit 1)
@@ -5144,7 +5144,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 180.34 83.82 0)
 			(effects
 				(font
@@ -5178,7 +5178,7 @@
 			(uuid "71d423c2-d9d9-43fb-a238-5748687d3fc3")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D7")
 					(unit 1)
@@ -5246,7 +5246,7 @@
 			(uuid "fd729040-493d-410c-83e5-4977498c0d5e")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "J3")
 					(unit 1)
@@ -5280,7 +5280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 204.47 41.91 0)
 			(effects
 				(font
@@ -5313,7 +5313,7 @@
 			(uuid "25a09bd6-fc55-43dc-9ed3-f3a8e37c4513")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW9")
 					(unit 1)
@@ -5381,7 +5381,7 @@
 			(uuid "211dbb81-70ed-4250-bad8-4a09c262d053")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "J2")
 					(unit 1)
@@ -5417,7 +5417,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 237.49 45.72 0)
 			(effects
 				(font
@@ -5451,7 +5451,7 @@
 			(uuid "0f1364db-b0b9-4e8a-a545-018ee82e7e82")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D17")
 					(unit 1)
@@ -5519,7 +5519,7 @@
 			(uuid "d3a52f1e-87d9-48dc-8133-abaeae0c02ba")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "#PWR04")
 					(unit 1)
@@ -5553,7 +5553,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 242.57 80.01 0)
 			(effects
 				(font
@@ -5586,7 +5586,7 @@
 			(uuid "94fc6f2c-8194-423d-8ca0-3de4b62d9144")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW19")
 					(unit 1)
@@ -5622,7 +5622,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 161.29 64.77 0)
 			(effects
 				(font
@@ -5656,7 +5656,7 @@
 			(uuid "782de18f-0124-45e7-871b-1ee53814e830")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D2")
 					(unit 1)
@@ -5690,7 +5690,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 204.47 60.96 0)
 			(effects
 				(font
@@ -5723,7 +5723,7 @@
 			(uuid "78e8a6a1-62fd-40a2-bab8-984b0c91b895")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW10")
 					(unit 1)
@@ -5757,7 +5757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 185.42 97.79 0)
 			(effects
 				(font
@@ -5790,7 +5790,7 @@
 			(uuid "556e277f-64d8-4eac-a16c-dbf5e06ac878")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW8")
 					(unit 1)
@@ -5855,7 +5855,7 @@
 			(uuid "5d1b044f-c7c3-4783-9fc5-c9f5d025ec56")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "#PWR06")
 					(unit 1)
@@ -5889,7 +5889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 242.57 97.79 0)
 			(effects
 				(font
@@ -5922,7 +5922,7 @@
 			(uuid "b6716d5e-8193-4fa8-ba0b-0d4a2aabaaa9")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW20")
 					(unit 1)
@@ -5957,7 +5957,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "note96e:JST_PH_S2B-PH-K_custom"
+		(property "Footprint" "roBa:JST_PH_S2B-PH-K_custom"
 			(at 65.024 160.02 90)
 			(effects
 				(font
@@ -5991,7 +5991,7 @@
 			(uuid "c168f796-dd83-4474-8708-4776383390b9")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "BT1")
 					(unit 1)
@@ -6027,7 +6027,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 180.34 64.77 0)
 			(effects
 				(font
@@ -6061,7 +6061,7 @@
 			(uuid "633cd733-5ab7-4b7e-bdfb-2e01cd817f83")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D6")
 					(unit 1)
@@ -6097,7 +6097,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 218.44 101.6 0)
 			(effects
 				(font
@@ -6131,7 +6131,7 @@
 			(uuid "af206eb0-a843-4c2f-afad-8819c0a25eec")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D16")
 					(unit 1)
@@ -6165,7 +6165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 185.42 41.91 0)
 			(effects
 				(font
@@ -6198,7 +6198,7 @@
 			(uuid "411de262-f413-4c9a-b0e7-f60762d3d94d")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW5")
 					(unit 1)
@@ -6232,7 +6232,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:pmw3610_connector"
+		(property "Footprint" "roBa:pmw3610_connector"
 			(at 46.99 109.22 0)
 			(effects
 				(font
@@ -6281,7 +6281,7 @@
 			(uuid "04edbffc-cfa7-4516-bd00-efb00070c614")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "J1")
 					(unit 1)
@@ -6349,7 +6349,7 @@
 			(uuid "50d22932-962f-418b-a69d-0aad76d35ccc")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "J6")
 					(unit 1)
@@ -6383,7 +6383,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 185.42 60.96 0)
 			(effects
 				(font
@@ -6416,7 +6416,7 @@
 			(uuid "73c4ee81-b245-4ac3-809c-34902326e4b3")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW6")
 					(unit 1)
@@ -6452,7 +6452,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 161.29 101.6 0)
 			(effects
 				(font
@@ -6486,7 +6486,7 @@
 			(uuid "f1528d0f-1263-466e-b02f-e84b2fad2a94")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D4")
 					(unit 1)
@@ -6522,7 +6522,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 237.49 64.77 0)
 			(effects
 				(font
@@ -6556,7 +6556,7 @@
 			(uuid "b6e91b7f-8605-42b2-81e2-15dcf629b14f")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D18")
 					(unit 1)
@@ -6621,7 +6621,7 @@
 			(uuid "9924a53a-a13e-4663-b2ed-4d16d5f4ea14")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "#PWR07")
 					(unit 1)
@@ -6686,7 +6686,7 @@
 			(uuid "90d577bb-4b84-408e-ab3f-e3a7e9eac639")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "#FLG02")
 					(unit 1)
@@ -6751,7 +6751,7 @@
 			(uuid "93f01dff-30b7-4c83-8be0-ab41d3e71944")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "#PWR01")
 					(unit 1)
@@ -6787,7 +6787,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 199.39 83.82 0)
 			(effects
 				(font
@@ -6821,7 +6821,7 @@
 			(uuid "74a06af5-88de-4a83-a100-b8cc9d65cc8d")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D11")
 					(unit 1)
@@ -6857,7 +6857,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 180.34 101.6 0)
 			(effects
 				(font
@@ -6891,7 +6891,7 @@
 			(uuid "684acb84-0855-4e1c-85e1-e0fae4245c29")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D8")
 					(unit 1)
@@ -6925,7 +6925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 185.42 80.01 0)
 			(effects
 				(font
@@ -6958,7 +6958,7 @@
 			(uuid "7e094736-00d6-4882-a24f-92cccb0f581b")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW7")
 					(unit 1)
@@ -7023,7 +7023,7 @@
 			(uuid "abeaf5f0-efc8-4b51-b570-8300431afafa")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "#FLG01")
 					(unit 1)
@@ -7057,7 +7057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 242.57 41.91 0)
 			(effects
 				(font
@@ -7090,7 +7090,7 @@
 			(uuid "2647cf78-7e16-4768-8b6f-71ebc2c45980")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "SW17")
 					(unit 1)
@@ -7126,7 +7126,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 180.34 45.72 0)
 			(effects
 				(font
@@ -7160,7 +7160,7 @@
 			(uuid "141c1de1-f63a-4c00-9bfe-924f99050e81")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "D5")
 					(unit 1)
@@ -7228,7 +7228,7 @@
 			(uuid "8a320362-135b-46ea-827e-43d5834e4cd0")
 		)
 		(instances
-			(project "balo43_R"
+			(project "roba_R"
 				(path "/d119a1ec-02ff-4c20-98bd-85bc9c63f638"
 					(reference "J4")
 					(unit 1)

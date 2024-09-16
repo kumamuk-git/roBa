@@ -3612,7 +3612,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 149.86 72.39 0)
 			(effects
 				(font
@@ -3747,7 +3747,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 168.91 53.34 0)
 			(effects
 				(font
@@ -3882,7 +3882,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 226.06 91.44 0)
 			(effects
 				(font
@@ -3952,7 +3952,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 149.86 109.22 0)
 			(effects
 				(font
@@ -4090,7 +4090,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 168.91 72.39 0)
 			(effects
 				(font
@@ -4228,7 +4228,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 226.06 72.39 0)
 			(effects
 				(font
@@ -4296,7 +4296,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX_EC12"
+		(property "Footprint" "roBa:SW_MX_EC12"
 			(at 248.92 124.206 0)
 			(effects
 				(font
@@ -4441,7 +4441,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 173.99 49.53 0)
 			(effects
 				(font
@@ -4510,7 +4510,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:XIAO_nRF52840_wBAT_wNFC"
+		(property "Footprint" "roBa:XIAO_nRF52840_wBAT_wNFC"
 			(at 41.91 50.8 0)
 			(effects
 				(font
@@ -4635,7 +4635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 154.94 105.41 0)
 			(effects
 				(font
@@ -4704,7 +4704,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 149.86 53.34 0)
 			(effects
 				(font
@@ -4772,7 +4772,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 193.04 49.53 0)
 			(effects
 				(font
@@ -4841,7 +4841,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 130.81 91.44 0)
 			(effects
 				(font
@@ -4909,7 +4909,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 135.89 68.58 0)
 			(effects
 				(font
@@ -4976,7 +4976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 173.99 87.63 0)
 			(effects
 				(font
@@ -5179,7 +5179,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 154.94 49.53 0)
 			(effects
 				(font
@@ -5443,7 +5443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 154.94 87.63 0)
 			(effects
 				(font
@@ -5510,7 +5510,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 173.99 104.14 0)
 			(effects
 				(font
@@ -5712,7 +5712,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 207.01 109.22 0)
 			(effects
 				(font
@@ -5782,7 +5782,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 130.81 53.34 0)
 			(effects
 				(font
@@ -5850,7 +5850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX_Choc"
 			(at 193.04 105.41 0)
 			(effects
 				(font
@@ -5919,7 +5919,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 226.06 109.22 0)
 			(effects
 				(font
@@ -5989,7 +5989,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 187.96 72.39 0)
 			(effects
 				(font
@@ -6057,7 +6057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 193.04 68.58 0)
 			(effects
 				(font
@@ -6126,7 +6126,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 207.01 91.44 0)
 			(effects
 				(font
@@ -6194,7 +6194,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX_Choc"
 			(at 212.09 105.41 0)
 			(effects
 				(font
@@ -6263,7 +6263,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 187.96 91.44 0)
 			(effects
 				(font
@@ -6331,7 +6331,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 193.04 87.63 0)
 			(effects
 				(font
@@ -6398,7 +6398,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 212.09 49.53 0)
 			(effects
 				(font
@@ -6465,7 +6465,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 173.99 68.58 0)
 			(effects
 				(font
@@ -6599,7 +6599,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 168.91 109.22 0)
 			(effects
 				(font
@@ -6669,7 +6669,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 130.81 72.39 0)
 			(effects
 				(font
@@ -6739,7 +6739,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 207.01 72.39 0)
 			(effects
 				(font
@@ -6807,7 +6807,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 231.14 87.63 0)
 			(effects
 				(font
@@ -6944,7 +6944,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 149.86 91.44 0)
 			(effects
 				(font
@@ -7012,7 +7012,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 212.09 68.58 0)
 			(effects
 				(font
@@ -7079,7 +7079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX_Choc"
 			(at 231.14 105.41 0)
 			(effects
 				(font
@@ -7146,7 +7146,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 135.89 105.41 0)
 			(effects
 				(font
@@ -7213,7 +7213,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 212.09 87.63 0)
 			(effects
 				(font
@@ -7282,7 +7282,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 187.96 53.34 0)
 			(effects
 				(font
@@ -7350,7 +7350,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 154.94 68.58 0)
 			(effects
 				(font
@@ -7418,7 +7418,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "note96e:JST_PH_S2B-PH-K_custom"
+		(property "Footprint" "roBa:JST_PH_S2B-PH-K_custom"
 			(at 68.834 160.02 90)
 			(effects
 				(font
@@ -7487,7 +7487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "note96e:TGSW_MSK-12D19"
+		(property "Footprint" "roBa:TGSW_MSK-12D19"
 			(at 55.88 160.02 0)
 			(effects
 				(font
@@ -7560,7 +7560,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 130.81 109.22 0)
 			(effects
 				(font
@@ -7630,7 +7630,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 187.96 109.22 0)
 			(effects
 				(font
@@ -7698,7 +7698,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 135.89 87.63 0)
 			(effects
 				(font
@@ -7765,7 +7765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:SW_MX"
+		(property "Footprint" "roBa:SW_MX"
 			(at 135.89 49.53 0)
 			(effects
 				(font
@@ -7834,7 +7834,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 207.01 53.34 0)
 			(effects
 				(font
@@ -7971,7 +7971,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "note96e:Diode_SMD"
+		(property "Footprint" "roBa:Diode_SMD"
 			(at 168.91 91.44 0)
 			(effects
 				(font

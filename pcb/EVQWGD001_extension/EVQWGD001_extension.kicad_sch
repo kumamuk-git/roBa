@@ -666,7 +666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EVQWGD001:EVQWGD001"
+		(property "Footprint" "roBa:EVQWGD001"
 			(at 140.97 96.266 0)
 			(effects
 				(font
@@ -745,7 +745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
+		(property "Footprint" "roBa:PinSocket_1x01_P2.54mm_Vertical"
 			(at 166.37 72.39 0)
 			(effects
 				(font
@@ -815,7 +815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
+		(property "Footprint" "roBa:PinSocket_1x01_P2.54mm_Vertical"
 			(at 179.07 72.39 0)
 			(effects
 				(font
@@ -885,7 +885,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
+		(property "Footprint" "roBa:PinSocket_1x01_P2.54mm_Vertical"
 			(at 129.54 72.39 0)
 			(effects
 				(font
@@ -955,7 +955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
+		(property "Footprint" "roBa:PinSocket_1x01_P2.54mm_Vertical"
 			(at 118.11 72.39 0)
 			(effects
 				(font
@@ -1025,7 +1025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
+		(property "Footprint" "roBa:PinSocket_1x01_P2.54mm_Vertical"
 			(at 107.95 72.39 0)
 			(effects
 				(font
