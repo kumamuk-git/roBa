@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "roba")(type "KiCad")(uri "${ROBA_SYMBOL}/roba.kicad_sym")(options "")(descr ""))
+)
