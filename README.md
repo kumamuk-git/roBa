@@ -5,7 +5,7 @@ roBaは[keyball](https://github.com/Yowkees/keyball/)に影響を受けたワイ
 + bluetooth(BLE)対応
 + 分割カラムスタッガード配列(キー数:42)
 + トラックボール搭載
-+ 水平ロータリーエンコーダ(EVQWGD001)搭載
++ 水平ロータリーエンコーダ搭載
 
 ## Whare to Buy
 
@@ -13,7 +13,7 @@ roBaは[keyball](https://github.com/Yowkees/keyball/)に影響を受けたワイ
 
 ## Build Guide
 
-ビルドガイドは[こちら](https://github.com/kumamuk-git/roBa/blob/main/doc/buildguide.md)
+ビルドガイドは[こちら](https://github.com/kumamuk-git/roBa/blob/main/doc/v2/buildguide_v2.md)
 
 ## Firmware
 
