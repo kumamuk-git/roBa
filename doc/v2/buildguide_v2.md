@@ -494,9 +494,9 @@ v2はバッテリーコネクタが裏面になります。
 settings_reset-seeeduino_xiao_ble-zmk.uf2は[ここ](https://zmk.dev/docs/troubleshooting/connection-issues#split-keyboard-halves-unable-to-pair)にあるように分割キーボードのペアリングに関する問題を解決するための設定初期化用のファームウェアです。
 
 1. PCと左側のマイコンをUSBで接続します。はじめはキーボードの電源はオフで大丈夫です。
-2. マイコンのリセットボタンを2回押すと、「XIAO SENSE」という名前でUSBドライブとして認識されるかと思います。(ブートローダの起動)
+2. マイコンのリセットボタンを2回押すと、「XIAO SENSE」という名前でUSBドライブとして認識されるかと思います。 (ブートローダの起動)
 3. 「XIAO SENSE」ドライブにsettings_reset-seeeduino_xiao_ble-zmk.uf2をドラッグアンドドロップします。  
-※Macの場合、以下のようなエラーが出るようですが無視して進めて問題ないとの報告を受けてます。（画像提供：shakupanさん）
+※MacOSの場合、以下のようなエラーが出るようですが無視して進めて問題なく、実際には書込みができているとのことです。 (画像提供：shakupanさん)
 ![alt text](../img/mac_errorz-reset.png)
 4. 書込み完了すると、「XIAO SENSE」というドライブは消えますが、再度セットボタンを2回押し、ブートローダを起動します。  
 5. 「XIAO SENSE」ドライブにroBa_L-seeeduino_xiao_ble-zmk.uf2をドラッグアンドドロップします。  
