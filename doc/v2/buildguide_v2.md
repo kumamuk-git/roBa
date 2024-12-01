@@ -496,6 +496,8 @@ settings_reset-seeeduino_xiao_ble-zmk.uf2は[ここ](https://zmk.dev/docs/troubl
 1. PCと左側のマイコンをUSBで接続します。はじめはキーボードの電源はオフで大丈夫です。
 2. マイコンのリセットボタンを2回押すと、「XIAO SENSE」という名前でUSBドライブとして認識されるかと思います。(ブートローダの起動)
 3. 「XIAO SENSE」ドライブにsettings_reset-seeeduino_xiao_ble-zmk.uf2をドラッグアンドドロップします。  
+※Macの場合、以下のようなエラーが出るようですが無視して進めて問題ないとの報告を受けてます。（画像提供：shakupanさん）
+![alt text](../img/mac_errorz-reset.png)
 4. 書込み完了すると、「XIAO SENSE」というドライブは消えますが、再度セットボタンを2回押し、ブートローダを起動します。  
 5. 「XIAO SENSE」ドライブにroBa_L-seeeduino_xiao_ble-zmk.uf2をドラッグアンドドロップします。  
 6. 右側も同様の手順でsettings_reset-seeeduino_xiao_ble-zmk.uf2とroBa_R-seeeduino_xiao_ble-zmk.uf2を順番に書き込みます。
