@@ -40,7 +40,7 @@
 
 ### 1-1．キット内容
 
-![alt text](img/all.JPG)
+![alt text](../img/all.JPG)
 
 | 名前 | 数 | 備考 |
 |:-|---:|:-|
@@ -144,15 +144,15 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 
 ダイオード用パッドの片側にはんだを盛ります。  
 
-![alt text](img/diode_1.JPG)
+![alt text](../img/diode_1.JPG)
 
 そしてピンセットでダイオードを掴み、シルクと向きを合わせて事前に盛ったはんだを溶かしつつ位置を合わせます。 
 
- ![alt text](img/diode_2.JPG)
+ ![alt text](../img/diode_2.JPG)
 
 およそシルクと同じ位置に決まったら、もう片側もはんだで固定します。
 
-![alt text](img/diode_3.JPG)
+![alt text](../img/diode_3.JPG)
 
 ピンセットでダイオードが取れないことを確認したら取り付け完了です。  
 これをすべて(43箇所)に対して行います。
@@ -164,16 +164,16 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 親指部分はchoc用のキーソケットを使用してください。  
 ダイオードと同様に片方のパッドに事前にはんだを盛ります。  
 
-![alt text](img/socket_1.JPG)
+![alt text](../img/socket_1.JPG)
 
 そして、キーソケットをシルクに合う向きで基板にはめ込みます。  
 その状態のまま、キーソケットをピンセットで抑えつつ、事前に盛ったはんだを溶かすとキーソケットが沈み、固定できます。  
 
-![alt text](img/socket_2.JPG)
+![alt text](../img/socket_2.JPG)
 
 固定出来たら、反対側のパッドもはんだで固定します。  
 
-![alt text](img/socket_3.JPG)
+![alt text](../img/socket_3.JPG)
 
 <!--
 写真  (ロータリーエンコーダ取り付け部分のソケット)
@@ -185,15 +185,15 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 このスライドスイッチが電源スイッチとなります。  
 スライドスイッチは基板表面に実装します。  
 
-![alt text](img/powersw_1.JPG)
+![alt text](../img/powersw_1.JPG)
 
 表面からピンを差し込み、マスキングで仮止めします。  
 
-![alt text](img/powersw_2.JPG)
+![alt text](../img/powersw_2.JPG)
 
 そして裏面から出たピンをはんだ付けし、固定します。  
 
-![alt text](img/powersw_3.JPG)
+![alt text](../img/powersw_3.JPG)
 
 はんだ付け後、ピンが長い場合はペンチ等で短くカットしても良いかもしれません。  
 
@@ -202,20 +202,20 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 ### 3-4．ポゴピンのはんだ付け  
 ポゴピンって名称がいいですよね。口に出して言いたい単語です。  
 
-![alt text](img/pogo_1.JPG)
+![alt text](../img/pogo_1.JPG)
 
 名称のわりにポゴピンのはんだ付けが一番難易度高いかもしれません。  
 ポゴピンは基板表面に実装します。  
 実装部分に差し込み、ポゴピンの根本をはんだで固定します。  
 
-![alt text](img/pogo_2.JPG)![alt text](img/pogo_3.JPG)
+![alt text](../img/pogo_2.JPG)![alt text](../img/pogo_3.JPG)
 
 この時ポゴピンが斜めになり、隣のポゴピンに接触しないように注意してください。
 手が3本ある方は角度をピンセットで調整しながらやるとgoodです。
 テスタなどで隣接したポゴピンが導通していないかを必ず確認してください。  
 確認出来たら念のため、カプトンテープで保護し、取付完了です。
 
-![alt text](img/pogo_4.JPG)![alt text](img/pogo_5.JPG)
+![alt text](../img/pogo_4.JPG)![alt text](../img/pogo_5.JPG)
 
 左右各4箇所、合わせて計8箇所あります。
 
@@ -225,8 +225,8 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 表からピンセットで角度調整するようにしてください。
 なお、かなり不安定な作業で危険なためほかの人の助けを借りたほうが良さそうです。
 
-![alt text](img/pogo_6.JPG)
-![alt text](img/pogo_7.JPG)
+![alt text](../img/pogo_6.JPG)
+![alt text](../img/pogo_7.JPG)
 
 <a id="anchor35"></a>  
 
@@ -235,13 +235,13 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 バッテリ取り付け用のコネクタです。  
 コネクタは基板表面に実装します。  
 
-![alt text](img/connector_1.JPG)
+![alt text](../img/connector_1.JPG)
 
 表面からシルクに合うような向きで差し込み、マスキングテープで仮止めします。  
 
 そして、裏面からはんだで固定します。
 
- ![alt text](img/connector_2.JPG)
+ ![alt text](../img/connector_2.JPG)
 
 
 左右各1箇所、計2箇所取り付けます。
@@ -253,7 +253,7 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 マイコン取り付け用のソケットです。  
 基板表面に実装します。 
 
- ![alt text](img/pinsocket_1.JPG)
+ ![alt text](../img/pinsocket_1.JPG)
 
 片方はポゴピンに盛ったはんだが邪魔して垂直に差しづらい場合があります。
 その場合はお手数ですがピンソケットのはしを少しやすりで削る等して垂直にさせるようにしてください。
@@ -262,11 +262,11 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 
 表面から差し込み、マスキングテープで仮止めします。  
 
-![alt text](img/pinsocket_2.JPG)
+![alt text](../img/pinsocket_2.JPG)
 
 そして、裏面からはんだで固定します。  
 
-![alt text](img/pinsocket_3.JPG)
+![alt text](../img/pinsocket_3.JPG)
 
 左右各2箇所、計4箇所取り付けます。  
 
@@ -278,13 +278,13 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 まず、先ほど取り付けたソケットにそれぞれピンヘッダを差し込みます。  
 短いピンがソケット側になります。
 
-![alt text](img/pinheader_1.JPG)
+![alt text](../img/pinheader_1.JPG)
 
 その状態でマイコンにピンヘッダを差し込みます。  
 
 しっかりと奥まで差し込まれた状態(ポゴピンの先が押し込まれ、マイコンのパッドに接触している状態)で、マイコンにピンヘッダをはんだ付けします。
 
-![alt text](img/pinheader_2.JPG)
+![alt text](../img/pinheader_2.JPG)
 
 
 <a id="anchor38"></a>  
@@ -296,11 +296,11 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 コンスルーは基板表面に実装します。  
 表面から差し込み、マスキングテープで仮止めします。
 
-![alt text](img/L_1.JPG)
+![alt text](../img/L_1.JPG)
 
 そして、裏面からはんだで固定します。  
 
-![alt text](img/L_2.JPG)
+![alt text](../img/L_2.JPG)
 
 トラックボール取り付け側の基板のみ1箇所です。  
 
@@ -313,7 +313,7 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 このとき、向きを間違えないよう写真をよく確認してください。  
 裏面に書かれた文字とセンサに書かれた文字の上下が揃っている向きが正しい向きです。 
 
-![alt text](img/sensor_1.JPG)![alt text](img/sensor_2.JPG)
+![alt text](../img/sensor_1.JPG)![alt text](../img/sensor_2.JPG)
 
 そして、表面に出たセンサのピンをすべてはんだ付けしていきます。  
 センサのデータシートによると**最大260℃**までの温度、**7秒以内**でのはんだづけが推奨されています。  
@@ -327,16 +327,16 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 センサが動作しない場合は、まず、この部分のはんだに不良がないか確認するとよいです。  
 基板の接続は以下のようになっていますので参考にしてください。
 
-![alt text](img/sensor_3.png)
+![alt text](../img/sensor_3.png)
 
 
 はんだづけが完了したら保護シールをはがしてください。
 
-![alt text](img/sensor_4.JPG)
+![alt text](../img/sensor_4.JPG)
 
 センサの取り付けが完了したら、レンズを装着してください。 
 
-![alt text](img/sensor_5.JPG)
+![alt text](../img/sensor_5.JPG)
 
 
 
@@ -348,18 +348,18 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 
 写真のように基板にロータリーエンコーダを差し込みます。
 
-![alt text](img/enc_1.JPG)
+![alt text](../img/enc_1.JPG)
 
 裏面から出たピンをはんだで固定します。  
 (完全に盲点だったんですが、ロータリーエンコーダが丸いため安定した状態での作業がなかなか難しいです。
 各自テープで固定して作業するなど工夫して安全な作業をお願いします。
 写真はマスキングテープで頑張りましたが安全とはいい難しです。)
 
-![alt text](img/enc_2.JPG)
+![alt text](../img/enc_2.JPG)
 
 ロータリーエンコーダの取り付けが完了したら、メイン基板へ差し込みます。  
 
-![alt text](img/enc_3.JPG)
+![alt text](../img/enc_3.JPG)
 
 
 + メイン基板の裏に出ているピンははんだしないことでロータリーエンコーダを後から外し、キースイッチに取り換えることができます。
@@ -380,7 +380,7 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 基板の切り欠きから配線を裏に通すようにします。
 購入したバッテリと極性(写真のような線の色)が合っているかを確認し取り付けてください。
 
-![alt text](img/bat_1.JPG)
+![alt text](../img/bat_1.JPG)
 
 <a id="anchor42"></a>  
 
@@ -390,21 +390,21 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 この時、ケースのマイコン上部にある穴にリセットボタン用スティックを差し込みます。  
 このスティックを介してマイコンのリセットボタンを押せるようにしています。  
 
-![alt text](img/reset_1.JPG)
-![alt text](img/reset_2.JPG)
-![alt text](img/main_1.JPG)
+![alt text](../img/reset_1.JPG)
+![alt text](../img/reset_2.JPG)
+![alt text](../img/main_1.JPG)
 
 
 続いてトッププレートにスペーサをねじ止めします。
 親指部分に4mmスペーサを使用します。他は7mmスペーサを使用します。
 
-![alt text](img/top_1.JPG)
+![alt text](../img/top_1.JPG)
 
 そして、ケースの上からトッププレートを乗せます。  
 トッププレートとメイン基板で挟み込みケースを固定する構造になっています。  
 トッププレートとメイン基板の間は空洞になっていますが、お好みでポロンシートなど仕込むと打鍵音にいい影響があるかもしれません。 
 
-![alt text](img/top_2.JPG)
+![alt text](../img/top_2.JPG)
 
 <a id="anchor43"></a>  
 
@@ -413,9 +413,9 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 ボトムプレートのくぼみにバッテリーを収納します。  
 この時バッテリーの裏に両面テープを貼り、ケースへ固定することをお勧めします。  
 
-![alt text](img/bat_2.JPG)
+![alt text](../img/bat_2.JPG)
 
-![alt text](img/bat_3.JPG)
+![alt text](../img/bat_3.JPG)
 
 また、小さいサイズのバッテリーを使用し、スペースが余る場合はポロンシートなどで隙間を埋めておくと良いかもしれません。 
 さらに、打鍵音を気にする方は、メイン基板の裏にマスキングテープを張っておくと打鍵音が多少良くなります。
@@ -423,7 +423,7 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 バッテリーを収納することができたら、ケース裏にボトムプレートをはめ込みます。  
 そして、裏からM2ネジで固定します。
 
-![alt text](img/bottom_1.JPG)
+![alt text](../img/bottom_1.JPG)
 
 <a id="anchor44"></a>  
 
@@ -431,7 +431,7 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 
 メイン基板のL字コンスルーにトラックボール読み取り基板を差し込みます。  
 
-![alt text](img/tb_1.JPG)
+![alt text](../img/tb_1.JPG)
 
 <a id="anchor45"></a>
 
@@ -439,15 +439,15 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 
 トラックボール読み取り基板を取り付け後、トラックボールケースを上から差し込み、ボトムプレート裏からM1.7ネジで固定します。
 
-![alt text](img/tb_2.JPG)
+![alt text](../img/tb_2.JPG)
 
-![alt text](img/tb_3.JPG)
+![alt text](../img/tb_3.JPG)
 
 <a id="anchor46"></a>
 
 ### 4-6．電源スイッチキャップ装着
 
-![alt text](img/power_1.JPG)
+![alt text](../img/power_1.JPG)
 
 電源スイッチキャップをスライドスイッチに差し込みます。
 緩いと感じる場合はラップの破片など挟むとよい滑り止めになるかもしれません。
@@ -455,7 +455,7 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 電源スイッチのオンオフの向きは初回ロット(9/15booth販売分)のみ写真のような向きになっています。  
 それ以降は基本的に左右ともに手前がオフ、奥がオンに揃っています。
 
-![alt text](img/switch_direction.JPG)
+![alt text](../img/switch_direction.JPG)
 
 
 以上で組み立て完了です。
@@ -515,19 +515,19 @@ bluetooth接続が完了したらすべてのキーが認識するか、ロー�
 1. githubアカウントを作成し、ログインします。
 2. [このリポジトリ](https://github.com/kumamuk-git/zmk-config-roBa)にアクセス
 3. 画面右上の「Fork」をクリック
-![](img/fork.jpg)
+![](../img/fork.jpg)
 4. そのまま「Create fork」をクリック
-![](img/createfork.jpg)
+![](../img/createfork.jpg)
 5. フォークしたリポジトリの「Actions」タブに移動し、「I understand my workflows, go ahead and enable them」をクリックし、github Actionsを有効化
-![](img/enableActions.jpg)
+![](../img/enableActions.jpg)
 6. [KeymapEditor](https://nickcoutsos.github.io/keymap-editor/)にアクセス  
 7. 「GitHub」を選択
-![](img/keymapeditor1.jpg)  
+![](../img/keymapeditor1.jpg)  
 8. 「Login with GitHub」からでログインし、「Authorize Keymap Editor」を選択  
 9. 指示に従い、フォークしたzmk-config-roBaにKeymap Editorがアクセスできるように進める
 10. Keymap Editor上でキーマップが表示されたら、好きにキーマップを編集する
 11. 画面左上の「Save」を押すと、編集したキーマップが適用されてGitHub Actionsが走り、自動的にビルドが開始します
-![](img/keymapeditor2.jpg)
+![](../img/keymapeditor2.jpg)
 12. 「Save」の隣に表示される「Latest」をクリックするとGitHubに移動し、ビルドが完了するとファームウェアがダウンロードできるようになります。  
 （ビルドには2～4分かかる場合があります。）
 13. [書込み手順](#5-2ファームウェア仮の書込み)に従い、ファームウェアを書き込みます。  
