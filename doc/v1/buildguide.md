@@ -473,7 +473,7 @@ zmk firmwareを使用しているため、ご自身でファームウェアや�
 (仮)としているのは、いずれキーマップをカスタマイズする際に現状ファームウェア自体を変更し、書込み直す必要があるためです。  
 （zmk studioというプロジェクトが進んでいて、いずれファームウェアの変更なしにキーマップのみGUIで編集できるようになるらしいです。やったね。）
 
-[こちら](https://github.com/kumamuk-git/zmk-config-roBa/actions/runs/10759328125)からzipファイルをダウンロードしてください。  
+[こちら](https://drive.google.com/file/d/10D3QgOOYa3G7XiFyVIoovQ7wt79W96s5/view?usp=sharing)からzipファイルをダウンロードしてください。  
 
 解凍すると以下の3つの.uf2ファイルが入っています。  
 + settings_reset-seeeduino_xiao_ble-zmk.uf2
