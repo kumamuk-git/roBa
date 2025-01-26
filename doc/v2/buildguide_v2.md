@@ -92,7 +92,7 @@
 | CherryMX互換キースイッチ      | 37個  |  |
 | ロープロファイルキースイッチ  | 5個   |  |
 | 直径34mmトラックボール        | 1個   |  |[主な購入先](https://www.amazon.co.jp/%E3%81%BA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9-PERIPRO-303WH-%E4%BA%A4%E6%8F%9B%E7%94%A8%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%91%E3%83%BC%E3%83%AB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88Perixx-PM-517-%E4%BA%A4%E6%8F%9B%E7%94%A8%E3%83%9C%E3%83%BC%E3%83%AB%E4%BA%92%E6%8F%9B%E6%80%A7%E6%9C%89%E3%82%8A%E5%85%89%E6%B2%A2%E4%BB%95%E4%B8%8A%E3%81%92%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E5%9E%8B/dp/B0D4F4HMXD/ref=sr_1_7?dib=eyJ2IjoiMSJ9.0RCXO5ib2-AFCi9uTFyZmltVMcNilIHzCawZL9iwAscZOGSYMMhlpg6oEuoB43-tN4d__DHxpRXRdC7EYDVmsXuC_ysLRkw1FIOY3h9qgXOXcu9_ySr5lftnZ2yp01oNdi_yFdaGp5v6tEeEcrsUkBgTj2mB6B9NDvSx5r-We7EYeQ8x4ySdJF384bEiP0F-rYpAsTBLsx_KQM9FIdhCwCo4RqZr3ohDIEBXcaRVwHVaTZ1xFQD63YsHDXRRg8KCnRVzl0iuqKmS8_5_ux2VuXOjZ9z96fgN6Q_6t59IZf8.cRtt7oACdluyAKPRQDVTcrW1F0GZI9ckfuRRN-3FcMI&dib_tag=se&keywords=%E3%81%BA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9&qid=1723728036&sr=8-7)|
-| Lipoバッテリー(コネクタ付き)  | 2個   | ボトムプレートはL53mm × H23mm × H6mm 以内の大きさに対応 キット付属のコネクタは2mmピッチのJSTコネクタになります|[主な購入先](https://www.amazon.co.jp/gp/product/B09DPNZM31/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&th=1)|
+| Lipoバッテリー(コネクタ付き)  | 2個   | ボトムプレートはL53mm × W23mm × H6mm 以内の大きさに対応 キット付属のコネクタは2mmピッチのJSTコネクタになります|[主な購入先(品切れのものが多いため4個入りですが...)](https://www.amazon.co.jp/EEMB-%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3-502030%E9%9B%BB%E6%B1%A0250mAh-%E3%83%AA%E3%83%9D%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E4%BA%8C%E6%AC%A1%E9%9B%BB%E6%B1%A0%E3%83%91%E3%83%83%E3%82%AF-Molex%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%A4%E3%81%8F%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC%E9%9B%BB%E6%B1%A0/dp/B08VRZTHDL/ref=sr_1_21?crid=13UEJY2RSN1W2&dib=eyJ2IjoiMSJ9.dJJSvyXBlb2r31ITFU8gJhQ_O_v5VlpdnN5FGATqpMCeCW9XjyU0qEY2Z7p3fq6uhvwAgvvy8NI5qthaYjpXsXA0vASWnsngSrsRJvcPzK-RRuQb2A79NJiYBGETAk3Cpuydxdxwx8tHjMW6VmGQjmt-eB-c3rjX7EmQnExBSWvXjZU7vkCutpGrW9lzz2uWAksEIp56gOH_4uTq0MTHxkTJwlvB-sDdaH6s4yxyoprKnLl0sSWN6On9qhgIvoFAb3D9zlt1yUbXpXapstQil7TXquG9mxk8CosYHgKFhYZi77JRUCZSNDX0f9eCwIgGZec7jXPinbZHSEwQ2h-AcwRSlRA9X4cUhOvt4sLssnk.qMTNOba_wYbnvjO5SxBTykoHbOy1WFt7w9N9OpbNDXQ&dib_tag=se&keywords=eemb%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC%E9%9B%BB%E6%B1%A03.7%2Bv&qid=1737863249&s=electronics&sprefix=%2Celectronics%2C168&sr=1-21&th=1)|
 | USB type-Cケーブル            | 1本   | ファームウェア書込みと充電に必要 |
 | キーキャップ                  | 37個  | 1u 37個 |
 | ロープロファイルキーキャップ  | 5個   | 1u ５個 |
@@ -106,7 +106,6 @@
 
 ### 1-3．オプション
 + ロータリーエンコーダ部分にキーソケットを取り付けキースイッチを取り付けることも可能です。
-+ ボトムプレートに直径4cmの円形のスペースを設けています。ステンレスプレートなどを仕込むことが可能です。
 
 <a id="anchor2"></a>  
 
