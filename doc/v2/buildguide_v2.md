@@ -509,6 +509,7 @@ bluetooth接続が完了したらすべてのキーが認識するか、ロー�
 
 <a id="anchor6"></a>
 ## 6．キーマップの編集
+***※REMAPやVialには対応していません。***
 
 冒頭で書いたようにzmk firmwareの編集にはgithubのアカウントが必要です。  
 一からファームウェアを用意する際の手順は[公式ドキュメントの導入解説](https://zmk.dev/docs/user-setup)を見るとわかりやすいです。  
@@ -539,7 +540,56 @@ bluetooth接続が完了したらすべてのキーが認識するか、ロー�
     + ファームウェアを書き直した際は、PC側のペアリング情報も削除してから再度ペアリングを行ってください。
 14. 無事に変更したキーマップが適用されていれば成功です。
 
-***※REMAPやVialには対応していません。***
+### 番外編
++ トラボの上下左右操作にキー入力を割り当てる
+kotさんのおかげで以下でトラックボールの上下左右操作にキー入力を割り当てることができるようになります。  
+kotさんありがとうございます。  
+#### 基本
+roBa_R.overlayのtrackball: trackball@0内に以下を書き加えます。  
+レイヤー3で矢印キー入力、レイヤー2で音量調整を行う設定を例に示します。
+roBa_R.overlayに書き加える方法だとbindingsとしてマクロキーを設定することはできません。
+```c:roBa_R.overlay
+trackball: trackball@0 {
+    //////////
+    ...
+    //////////
+    // automouse-layer = <MOUSE>;
+    // scroll-layers = <SCROLL>;
+    // snipe-layers = <3>;
+
+    以下を追記
+
+    arrows {
+        layers = <3>;
+        bindings =
+            <&kp RIGHT_ARROW>,
+            <&kp LEFT_ARROW>,
+            <&kp UP_ARROW>,
+            <&kp DOWN_ARROW>;
+
+        tick = <10>;
+        wait-ms = <5>;
+        tap-ms = <5>;
+    };
+
+    volume {
+        layers = <2>;
+        bindings =
+                <&none>,
+                <&none>,
+                <&kp C_VOLUME_UP>,
+                <&kp C_VOLUME_DOWN>;
+
+        wait-ms = <5>;
+        tap-ms = <5>;
+    };
+};
+```
+#### 応用
+ファイル構成が変わるので上級者向けです。  
+こちらの方法でマクロキーもトラックボール動作に割り当てることができるようになります。  
+実装の詳細はこちらの[PR](https://github.com/kumamuk-git/zmk-config-roBa/pull/11)を参考にしてください。  
+
 
 
 <a id="anchor7"></a>
