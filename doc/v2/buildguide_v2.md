@@ -553,6 +553,10 @@ roBa_R.overlayのtrackball: trackball@0内に以下を書き加えます。
 レイヤー3で矢印キー入力、レイヤー2で音量調整を行う設定を例に示します。
 roBa_R.overlayに書き加える方法だとbindingsとしてマクロキーを設定することはできません。
 ```c:roBa_R.overlay
+
+↓追記
+#include <dt-bindings/zmk/keys.h>
+
 trackball: trackball@0 {
     //////////
     ...
@@ -561,7 +565,7 @@ trackball: trackball@0 {
     // scroll-layers = <SCROLL>;
     // snipe-layers = <3>;
 
-    以下を追記
+    ↓追記
 
     arrows {
         layers = <3>;
