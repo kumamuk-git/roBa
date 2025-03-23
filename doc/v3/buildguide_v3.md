@@ -91,7 +91,7 @@
 | CherryMX互換キースイッチ      | 37個  |  |
 | ロープロファイルキースイッチ  | 5個   |  |
 | 直径34mmトラックボール        | 1個   |  |[主な購入先](https://www.amazon.co.jp/%E3%81%BA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9-PERIPRO-303WH-%E4%BA%A4%E6%8F%9B%E7%94%A8%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%91%E3%83%BC%E3%83%AB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88Perixx-PM-517-%E4%BA%A4%E6%8F%9B%E7%94%A8%E3%83%9C%E3%83%BC%E3%83%AB%E4%BA%92%E6%8F%9B%E6%80%A7%E6%9C%89%E3%82%8A%E5%85%89%E6%B2%A2%E4%BB%95%E4%B8%8A%E3%81%92%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E5%9E%8B/dp/B0D4F4HMXD/ref=sr_1_7?dib=eyJ2IjoiMSJ9.0RCXO5ib2-AFCi9uTFyZmltVMcNilIHzCawZL9iwAscZOGSYMMhlpg6oEuoB43-tN4d__DHxpRXRdC7EYDVmsXuC_ysLRkw1FIOY3h9qgXOXcu9_ySr5lftnZ2yp01oNdi_yFdaGp5v6tEeEcrsUkBgTj2mB6B9NDvSx5r-We7EYeQ8x4ySdJF384bEiP0F-rYpAsTBLsx_KQM9FIdhCwCo4RqZr3ohDIEBXcaRVwHVaTZ1xFQD63YsHDXRRg8KCnRVzl0iuqKmS8_5_ux2VuXOjZ9z96fgN6Q_6t59IZf8.cRtt7oACdluyAKPRQDVTcrW1F0GZI9ckfuRRN-3FcMI&dib_tag=se&keywords=%E3%81%BA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9&qid=1723728036&sr=8-7)|
-| Lipoバッテリー(コネクタ付き)  | 2個   | ボトムプレートはL53mm × W23mm × H6mm 以内の大きさに対応 キット付属のコネクタは2mmピッチのJSTコネクタになります。必ず保護回路付きのものを用意してください。|[主な購入先](https://www.amazon.co.jp/EEMB-%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3-502030%E9%9B%BB%E6%B1%A0250mAh-%E3%83%AA%E3%83%9D%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E4%BA%8C%E6%AC%A1%E9%9B%BB%E6%B1%A0%E3%83%91%E3%83%83%E3%82%AF-Molex%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%A4%E3%81%8F%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC%E9%9B%BB%E6%B1%A0/dp/B08FD3V6TF?ref_=ast_sto_dp)|
+| Lipoバッテリー(コネクタ付き)  | 2個   | ボトムプレートはL53mm × W23mm × H6mm 以内の大きさに対応 キット付属のコネクタは2mmピッチのJSTコネクタになります。必ず保護回路付きのものを用意してください。|[主な購入先](https://www.amazon.co.jp/dp/B09DPNZM31/ref=sspa_dk_detail_5?pd_rd_i=B09DPNZM31&pd_rd_w=nYm2m&content-id=amzn1.sym.f293be60-50b7-49bc-95e8-931faf86ed1e&pf_rd_p=f293be60-50b7-49bc-95e8-931faf86ed1e&pf_rd_r=M91QW1TKRXW12YEHDAHQ&pd_rd_wg=4JMC4&pd_rd_r=66736777-5bbe-4f05-8426-73d5bf2bb9d7&s=electronics&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1)|
 | USB type-Cケーブル            | 1本   | ファームウェア書込みと充電に必要 |
 | キーキャップ                  | 37個  | 1u 37個 |
 | ロープロファイルキーキャップ  | 5個   | 1u ５個 |
@@ -605,6 +605,7 @@ trackball: trackball@0 {
 
 ### 一部キーが反応しない  
 + はんだ不良、ポゴピンの接触不良、ダイオードの向き、キースイッチが正しくソケットに刺さっているかを確認してください。  
++ 白湯さん（moNaの設計者）がトラブルシューティング用の[note](https://note.com/pooh_polo/n/n386f7c9355bc)を書いてくださいました！  キーが反応しない場合はまずこちら目を通して頂くと良いと思います！
 
 ### zmk firmwareについて
 このキーボード固有の問題ではなくファームウェアのカスタマイズ等で疑問点がある場合、以下が参考になると思います。  
