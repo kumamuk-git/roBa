@@ -53,8 +53,8 @@
 | トラックボール読取りセンサ    | 1個 | PMW3610|
 | 読取りセンサ用レンズ          | 1個 | |
 | L字コンスルーピン(7ピン)      | 1個 | |
-| PHコネクタ                    | 2個 | |
-| スライドスイッチ              | 2個 | |
+| PHコネクタ                    | 2個 | [S2B-PH-SM4-TB](https://akizukidenshi.com/catalog/g/g112810/)|
+| スライドスイッチ              | 2個 |[MSK12C01](https://www.aitendo.com/product/16631) |
 | ダイオード（表面実装タイプ）  | 50個 | 予備含む|
 | Kailh PCBソケット CherryMX用  | 40個 ||
 | Kailh PCBソケット choc用      | 5個 | |
