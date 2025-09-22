@@ -38,7 +38,11 @@
 
 ### 1-1．キット内容
 
-
+> [!NOTE]  
+> **ケースなし版を購入された方へ**  
+> 3Dプリントケースは[github](https://github.com/kumamuk-git/roBa/tree/main/case/v3)上で公開しています
+> JLCPCBでの発注方法は[こちら](https://zenn.dev/kumamuk/scraps/ff2f456fd1757d)に簡単にまとめています  
+> 部品の厚みが足りないと警告が出る場合がありますが、リスクを許容すると回答することで製造を進めることができます
 
 | 名前 | 数 | 備考 |
 |:-|---:|:-|
@@ -61,7 +65,6 @@
 | ネジ M1.7                     | 2本 | |
 | クッションゴム                | 4個 | |  
 
-なお3Dプリントケースは[github](https://github.com/kumamuk-git/roBa/tree/main/case/v2)上で公開しています。  
 
 ---ロータリーエンコーダ---
 | 名前 | 数 | 備考 |
