@@ -7,7 +7,7 @@ roBaは[keyball](https://github.com/Yowkees/keyball/)に影響を受けたワイ
 + トラックボール搭載
 + 水平ロータリーエンコーダ搭載（v1: evqwgd001, v2以降: [CKW12](https://github.com/kumamuk-git/CKW12/tree/main)）
 
-## Whare to Buy
+## Where to Buy
 
 [BOOTH](https://kumamuk.booth.pm/)にて組み立てキットが購入可能
 
