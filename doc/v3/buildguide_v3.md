@@ -124,6 +124,9 @@
 | マスキングテープ||
 | テスター||
 | ペンチ||
+
+※はんだ付けに不慣れな場合は[こちらの練習基板](https://shop.talpkeyboard.com/products/xiao-practice-board?srsltid=AfmBOorD9UDPbBe-PfrL-WXPXtLGYbIb1FaJLrHtgnWY-idmJSjyx2CD)でマイコンのはんだ付けを練習してから挑むと良いかと思います。
+
 <a id="anchor22"></a>  
 
 ### 2-2．ファームウェア
